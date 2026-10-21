@@ -1,0 +1,5 @@
+# Reports contain tenant data (user names, UPNs, IDs) - never commit them
+output/
+*.log
+*.csv
+*.html
